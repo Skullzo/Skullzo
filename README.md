@@ -11,3 +11,6 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
     <img  src="https://github-readme-stats.vercel.app/api?username=Skullzo&show_icons=true&theme=dracula")>
 </div>
 
+<h2 align="left">Lenguajes de Programación más usados</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullzo)](https://github.com/Skullzo/github-readme-stats) 
