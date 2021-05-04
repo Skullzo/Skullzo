@@ -1,4 +1,4 @@
-<h1 align="center">Skullzo (Alejandro Toro Daza) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
+<h1 align="Left">Skullzo (Alejandro Toro Daza) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
 Ingeniero de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito.
 
