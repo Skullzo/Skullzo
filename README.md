@@ -35,7 +35,7 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
     </tr>
       <td width="25%" align="center">
         <span><b>PostgreSQL</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/netbeans.svg">
       </td>
       <td width="25%" align="center">
         <span>React</span><br><br><br>
