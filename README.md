@@ -15,7 +15,7 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullzo)](https://github.com/Skullzo/github-readme-stats) 
 
-<h2 align="left">Knowledges </h2>
+<h2 align="left">Conocimientos</h2>
 
 <table>
   <tbody>
