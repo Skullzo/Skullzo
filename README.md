@@ -62,7 +62,6 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
 <img src="https://komarev.com/ghpvc/?username=Skullzo" alt="=Skullzo" />
 
 </p>
-
 <a href="https://github.com/Skullzo">
   <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
