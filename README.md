@@ -50,10 +50,12 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
   </tbody>
 </table>
 </p>
-<hr>
+
 <a href="https://github.com/Skullzo">
   <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
+
 <p>
     
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSkullzo" />
