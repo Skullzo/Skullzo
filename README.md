@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Nicolás Aguilera <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
 <!--
 **Skullzo/Skullzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
