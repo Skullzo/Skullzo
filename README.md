@@ -1,4 +1,4 @@
-<h1 align="left">Skullzo (Alejandro Toro Daza) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
+<h1 align="left">Alejandro Toro Daza (Skullzo) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
 Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
