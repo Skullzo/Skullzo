@@ -45,6 +45,30 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
         <span>NetBeans</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Spring</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Postman</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Microsoft Azure</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
+      </td>
+      td width="25%" align="center">
+        <span>Amazon Web Services</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
     </tr>
     
   </tbody>
