@@ -21,19 +21,19 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-         <span><b>Python 3</b></span><br><br><br>
+         <span><b>Python 3</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>Git</span><br><br><br>
+        <span>Git</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Java</span><br><br><br>
+        <span>Java</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <span>Spring</span><br><br><br>
+        <span>Spring</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
       </td>
     </tr>
