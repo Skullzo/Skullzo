@@ -51,24 +51,24 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
     </td>
     <td width="25%" align="center">
-      <span>PostgreSQL</span><br><br>
+      <span><b>PostgreSQL</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
     </td>
       <td width="25%" align="center">
-      <span>React</span><br><br><br>
+      <span><b>React</b></span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
     </td>  
     </tr>
     <td width="25%" align="center">
-      <span>MongoDB</span><br><br><br>
+      <span><b>MongoDB</b></span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
     </td>      
     <td width="25%" align="center">
-      <span>Microsoft Azure</span><br><br><br>
+      <span><b>Microsoft Azure</b></span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
     </td>
     <td width="25%" align="center">
-      <span>Amazon Web Services</span><br><br><br>
+      <span><b>Amazon Web Services</b></span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
     </td>
   </tr>    
