@@ -21,46 +21,47 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-         <span><b>Python 3</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Git</span><br><br>
+        <span><b>Git</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+      <td width="25%" align="center">
+         <span>Python 3</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      
       <td width="25%" align="center">
         <span>Java</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <span>Spring</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
-      </td>
-    </tr>
-      <td width="25%" align="center">
-        <span><b>PostgreSQL</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
         <span>NetBeans</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
-      </td>      
+      </td>
       <td width="25%" align="center">
         <span>Postman</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
       </td>
       <td width="25%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <span><b>Spring</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+      </td>
+    </tr>
+      <td width="25%" align="center">
+        <span><b>PostgreSQL</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>     
+      <td width="25%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>      
       <td width="25%" align="center">
         <span>Microsoft Azure</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
