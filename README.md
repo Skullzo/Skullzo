@@ -32,18 +32,19 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
         <span><b>Java</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="25%" align="center">
-        <span><b>Javascript</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>NetBeans</b></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Postman</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
-      </td>    
+    </tr>
+    <td width="25%" align="center">
+      <span><b>Javascript</b></span><br><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+    </td>    
+    <td width="25%" align="center">
+      <span><b>NetBeans</b></span><br><br><br>
+      <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
+    </td>
+    <td width="25%" align="center">
+      <span><b>Postman</b></span><br><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
+    </td>    
     </tr>
     <td width="25%" align="center">
       <span><b>Spring</b></span><br><br>
@@ -56,7 +57,8 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <td width="25%" align="center">
       <span>React</span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-    </td>     
+    </td>  
+    </tr>
     <td width="25%" align="center">
       <span>MongoDB</span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
