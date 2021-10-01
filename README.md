@@ -34,15 +34,15 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       </td>
     </tr>
     <td width="25%" align="center">
-      <span><b>Javascript</b></span><br><br><br>
+      <span><b>Javascript</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
     </td>    
     <td width="25%" align="center">
-      <span><b>NetBeans</b></span><br><br><br>
+      <span><b>NetBeans</b></span><br><br>
       <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
     </td>
     <td width="25%" align="center">
-      <span><b>Postman</b></span><br><br><br>
+      <span><b>Postman</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
     </td>    
     </tr>
@@ -55,20 +55,20 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
     </td>
       <td width="25%" align="center">
-      <span><b>React</b></span><br><br><br>
+      <span><b>React</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
     </td>  
     </tr>
     <td width="25%" align="center">
-      <span><b>MongoDB</b></span><br><br><br>
+      <span><b>MongoDB</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
     </td>      
     <td width="25%" align="center">
-      <span><b>Microsoft Azure</b></span><br><br><br>
+      <span><b>Microsoft Azure</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
     </td>
     <td width="25%" align="center">
-      <span><b>Amazon Web Services</b></span><br><br><br>
+      <span><b>Amazon Web Services</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
     </td>
   </tr>    
