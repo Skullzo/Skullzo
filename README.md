@@ -54,15 +54,15 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <span><b>PostgreSQL</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
     </td>
-      <td width="25%" align="center">
-      <span><b>React</b></span><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-    </td>  
-    </tr>
     <td width="25%" align="center">
       <span><b>MongoDB</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-    </td>      
+    </td>     
+    </tr>
+    <td width="25%" align="center">
+      <span><b>React</b></span><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+    </td>   
     <td width="25%" align="center">
       <span><b>Microsoft Azure</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
