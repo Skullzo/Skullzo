@@ -29,8 +29,12 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Java</span><br><br><br>
+        <span>Java</span>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>        
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
       <td width="25%" align="center">
@@ -44,10 +48,6 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <td width="25%" align="center">
         <span>NetBeans</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
         <span>Spring</span><br><br><br>
