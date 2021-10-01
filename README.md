@@ -25,10 +25,9 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-         <span>Python 3</span><br><br>
+        <span>Python 3</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      
+      </td>      
       <td width="25%" align="center">
         <span>Java</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
