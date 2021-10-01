@@ -51,7 +51,7 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       </td>      
       <td width="25%" align="center">
         <span>Postman</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
       </td>
       <td width="25%" align="center">
         <span>MongoDB</span><br><br><br>
@@ -65,7 +65,7 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
         <span>Microsoft Azure</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
       </td>
-      td width="25%" align="center">
+      <td width="25%" align="center">
         <span>Amazon Web Services</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
