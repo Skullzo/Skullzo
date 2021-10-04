@@ -42,10 +42,14 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
     </td>
     <td width="25%" align="center">
+      <span><b>IntelliJ</b></span><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/intellij.svg">
+    </td> 
+    </tr>
+    <td width="25%" align="center">
       <span><b>Postman</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
-    </td>    
-    </tr>
+    </td>        
     <td width="25%" align="center">
       <span><b>Spring</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
@@ -54,11 +58,11 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <span><b>PostgreSQL</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
     </td>
+    </tr>
     <td width="25%" align="center">
       <span><b>MongoDB</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-    </td>     
-    </tr>
+    </td>  
     <td width="25%" align="center">
       <span><b>React</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
