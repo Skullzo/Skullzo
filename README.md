@@ -84,6 +84,7 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <span><b>Gradle</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/gradle.svg">
     </td>
+    </tr>
     <td width="25%" align="center">
       <span><b>Docker</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
