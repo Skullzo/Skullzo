@@ -89,6 +89,10 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <span><b>Docker</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
     </td>
+    <td width="25%" align="center">
+      <span><b>Spark</b></span><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/spark.svg">
+    </td>
   </tr>    
   </tbody>
 </table>
