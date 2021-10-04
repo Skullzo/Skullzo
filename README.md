@@ -43,7 +43,7 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
     </td>
     <td width="25%" align="center">
       <span><b>IntelliJ</b></span><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/intellij.svg">
+      <img height="64px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
     </td> 
     </tr>
     <td width="25%" align="center">
@@ -71,11 +71,11 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <span><b>Microsoft Azure</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
     </td>
+    </tr>
     <td width="25%" align="center">
       <span><b>Amazon Web Services</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
     </td>
-    </tr>
     <td width="25%" align="center">
       <span><b>Maven</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/maven.svg">
@@ -84,11 +84,11 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
       <span><b>Heroku</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/heroku.svg">
     </td>
+    </tr>
     <td width="25%" align="center">
       <span><b>Gradle</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/gradle.svg">
     </td>
-    </tr>
     <td width="25%" align="center">
       <span><b>Docker</b></span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
