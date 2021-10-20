@@ -109,7 +109,7 @@ Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería J
 
 <p align="left">
 
-
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSkullzo" />
 <img src="https://komarev.com/ghpvc/?username=Skullzo" alt="=Skullzo" />
 
 </p>
