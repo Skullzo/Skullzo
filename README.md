@@ -2,8 +2,8 @@
 
 Ingeniero de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
-- 🔭 Estoy trabajando en [Miniso Colombia](https://www.miniso.co).
-- 🌱 Soy egresado de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
+- 🔭 Practicante de Analista de Sistemas de Información en [Miniso Colombia](https://www.miniso.co).
+- 🌱 Egresado de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
 <h2 align="left">Estadísticas de GitHub</h2>
 
