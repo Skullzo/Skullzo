@@ -69,7 +69,7 @@ Ingeniero de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](h
     </td>   
     <td width="25%" align="center">
       <span><b>Microsoft Azure</b></span><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
+      <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg">
     </td>
     </tr>
     <td width="25%" align="center">
