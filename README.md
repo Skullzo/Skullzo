@@ -4,7 +4,7 @@ Ingeniero de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](h
 
 - 🔭 Practicante de Analista de Sistemas de Información en [Miniso Colombia](https://www.miniso.co).
 - 🌱 Egresado de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
-- 💼 Perfil de [LinkedIn](www.linkedin.com/in/alejandrotorodaza).
+- 💼 Perfil de [LinkedIn](https://www.linkedin.com/in/alejandrotorodaza).
 
 <h2 align="left">Estadísticas de GitHub</h2>
 
