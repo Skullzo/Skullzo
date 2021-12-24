@@ -104,8 +104,6 @@ Ingeniero de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](h
 </p>
 
 
-
-
 </p>
 
 <p align="left">
