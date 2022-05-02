@@ -2,7 +2,7 @@
 
 Ingeniero de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
-- 🔭 Practicante de Tecnología (Sistemas de Información) en [Miniso Colombia](https://www.miniso.co).
+- 🔭 Analista de Soporte Técnico en [SDI Element Logic](https://sdi.systems/).
 - 🌱 Egresado de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 - 💼 Perfil de [LinkedIn](https://www.linkedin.com/in/alejandrotorodaza).
 
