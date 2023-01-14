@@ -1,22 +1,22 @@
 <h1 align="left">Alejandro Toro Daza (Skullzo) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
-Ingeniero de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
+Computer Scientist from the [Colombian School of Engineering Julio Garavito University](https://www.escuelaing.edu.co/es/).
 
-- 🔭 Analista de Soporte Técnico en [SDI Element Logic](https://sdi.systems/).
-- 🌱 Egresado de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
-- 💼 Perfil de [LinkedIn](https://www.linkedin.com/in/alejandrotorodaza).
+- 🔭 Technical Support Analyst at [SDI Element Logic](https://sdi.systems/).
+- 🌱 Graduated from the [Colombian School of Engineering Julio Garavito University](https://www.escuelaing.edu.co/es/).
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandrotorodaza) profile.
 
-<h2 align="left">Estadísticas de GitHub</h2>
+<h2 align="left">GitHub Statistics</h2>
 
 <div>
     <img  src="https://github-readme-stats.vercel.app/api?username=Skullzo&show_icons=true&theme=dracula")>
 </div>
 
-<h2 align="left">Lenguajes de Programación más usados</h2>
+<h2 align="left">Most used programming languages</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullzo)](https://github.com/Skullzo/github-readme-stats) 
 
-<h2 align="left">Conocimientos</h2>
+<h2 align="left">Knowledge</h2>
 
 <table>
   <tbody>
