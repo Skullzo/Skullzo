@@ -2,7 +2,7 @@
 
 Computer Scientist from the [Colombian School of Engineering Julio Garavito University](https://www.escuelaing.edu.co/es/).
 
-- 🖥️ Technical Support Analyst at [SDI Element Logic](https://sdi.systems/).
+- 🖥️ Commissioning Engineer at [SDI Element Logic](https://sdi.systems/).
 - 🎓 Graduated from the [Colombian School of Engineering Julio Garavito University](https://www.escuelaing.edu.co/es/).
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandrotorodaza) profile.
 
