@@ -2,7 +2,7 @@
 
 Computer Scientist from the [Colombian School of Engineering Julio Garavito University](https://www.escuelaing.edu.co/es/).
 
-- 🖥️ Launch Project Manager at [SDI Element Logic](https://sdi.systems/).
+- 🖥️ Launch Project Manager at [Element Logic](https://www.elementlogic.net/us/).
 - 🎓 Graduated from the [Colombian School of Engineering Julio Garavito University](https://www.escuelaing.edu.co/es/).
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandrotorodaza) profile.
 
