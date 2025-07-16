@@ -1,4 +1,4 @@
-<h1 align="left">Alejandro Toro Daza (Skullzo) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
+<h1 align="left">Alejandro Toro <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
 Computer Scientist from the [Colombian School of Engineering Julio Garavito University](https://www.escuelaing.edu.co/es/).
 
